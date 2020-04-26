@@ -15,7 +15,7 @@ public class Researcher {
 	}
 	
 	public void constructVirus() {
-		System.out.println("The virus is being researched...");
+		System.out.println("\n The information is being researched...");
 		virusBuilder.createNewVirus();
 		virusBuilder.buildCases();
 		virusBuilder.buildCountryCount();

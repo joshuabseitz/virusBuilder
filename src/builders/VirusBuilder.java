@@ -9,7 +9,7 @@ public abstract class VirusBuilder {
 	protected Virus virus;
 	
 	public Virus getVirus() {
-		System.out.println("Researcher has retrieved virus facts.");
+		System.out.println("\nResearcher has retrieved virus facts.");
 		return virus;
 	}
 	

@@ -1,4 +1,4 @@
-Joshua Seitz, Diego Martinez
+Diego Martinez, Joshua Seitz
 COMP373/473
 
 Project 4 - BUILDER PATTERN

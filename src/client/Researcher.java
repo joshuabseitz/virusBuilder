@@ -2,6 +2,10 @@ package client;
 
 import builders.*;
 
+/*
+ * The researcher is the director class which can select the concrete builder needed, have a virus researched, and print virus facts.
+ */
+
 public class Researcher {
 	
 	private VirusBuilder virusBuilder;

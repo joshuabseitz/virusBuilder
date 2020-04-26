@@ -28,7 +28,7 @@ public class Virus {
 		this.fatalityRate = fatalityRate;
 	}
 	
-	public void getOriginCountry(String originCountry) {
+	public void setOriginCountry(String originCountry) {
 		this.originCountry = originCountry;
 	}
 	

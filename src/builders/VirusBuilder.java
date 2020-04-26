@@ -1,5 +1,9 @@
 package builders;
 
+/*
+ * This is the abstract builder – it contains abstract builders.
+ */
+
 public abstract class VirusBuilder {
 
 	protected Virus virus;

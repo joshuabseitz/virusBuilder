@@ -23,7 +23,7 @@ public class CovidBuilder extends VirusBuilder{
 	}
 	
 	public void buildOriginCountry() {
-		virus.setOriginCountry("China");
+		virus.setOriginCountry("People's Republic of China");
 		System.out.println("\n Retrieving origin country: " + virus.getOriginCountry());
 	}
 
